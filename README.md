@@ -11,13 +11,13 @@ PCB implementation of a 29 GHz metasurface unit cell. The geometry was taken fro
 ## Design Preview
 
 ### HFSS Design
-![HFSS Design](Antenna Layout/Screenshot 2026-03-22 214839.png)
+![HFSS Design](Antenna%20Layout/Screenshot%202026-03-22%20214839.png)
 ### Unit Cell Geometry
-![UnitCell](Antenna Layout/Screenshot 2026-03-17 200521.png)
+![UnitCell](Antenna%20Layout/Screenshot%202026-03-17%20200521.png)
 ### KiCad PCB Layout
-![PCB Layout](Antenna Layout/Screenshot 2026-03-17 195727.png)
+![PCB Layout](Antenna%20Layout/Screenshot%202026-03-17%20195727.png)
 ## 3D View
-![3D View](Antenna Layout/Screenshot 2026-03-17 201236.png)
+![3D View](Antenna%20Layout/Screenshot%202026-03-17%20201236.png)
 
 ## Workflow
 
